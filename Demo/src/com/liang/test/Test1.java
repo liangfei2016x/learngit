@@ -16,7 +16,7 @@ public class Test1 {
 		List list=new ArrayList<>();
 		list.add("");
 		/**
-		 * ²âÊÔ
+		 * ²âÊÔ2222222222222
 		 */
 	}
 }
