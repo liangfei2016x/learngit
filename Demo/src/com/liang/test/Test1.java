@@ -16,10 +16,7 @@ public class Test1 {
 		List list=new ArrayList<>();
 		list.add("");
 		/**
-		 * 我是来测试的
-		 */
-		/**
-		 * 第二次测试 create branch
+		 * 测试
 		 */
 	}
 }
